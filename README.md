@@ -41,7 +41,6 @@ This repository contains the **raw code only**.
 
 ## 📂 Repository Structure
 Hedge_Fund_Optimization/
-├─ src/
 │ ├─ ucits.py # UCITS USD optimizer
 │ └─ offshore.py # Offshore USD optimizer
 ├─ requirements.txt # Dependencies
@@ -64,7 +63,7 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 4. Run either script
-python src/ucits.py
-python src/offshore.py
+python ucits.py
+python offshore.py
 
 
