@@ -41,6 +41,7 @@ This repository contains the **raw code only**.
 
 ## 📂 Repository Structure
 Hedge_Fund_Optimization/
+
 │ ├─ ucits.py # UCITS USD optimizer
 
 │ └─ offshore.py # Offshore USD optimizer
